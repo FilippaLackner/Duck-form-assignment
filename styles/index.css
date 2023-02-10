@@ -1,0 +1,38 @@
+.background-container {
+    max-width: 1440px;
+    width: 100%;
+    height: 900px;
+    background-color: #9DBEBB ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container {
+    max-width: 954px;
+    width: 100%;
+    height: 594px;
+    Fill: Solid;
+    background-color: #BE0909;
+    Offset: 0px, 0px;
+    color:rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: flex-end;
+    position:relative;
+}
+.yellow-container {
+    max-width: 345px;
+    width: 100%;
+    height: 594px;
+    background-color:#FFB039;
+    display: flex;
+    position: relative;
+    
+}
+img {
+    position:absolute;
+    
+
+
+    
+}
